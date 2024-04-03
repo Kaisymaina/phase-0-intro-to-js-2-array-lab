@@ -20,11 +20,11 @@ in Visual Studio Code.
 
 Open up the `test` folder and take a look at `indexTest.js`. Note that some of
 the names of the functions you will be writing begin with `destructively` and
-some don't. This is a clue as to which `Array` method you will need to use for
+some don't. This is a clue as to which `Array` method you will need to u["Milo", "Otis", "Garfield"]se for
 each function.
 
 Note also that the first test asks for an array called `cats`, set to an
-initial value of `["Milo", "Otis", "Garfield"]`. In your functions, you will be
+initial value of ``. In your functions, you will be
 accessing and manipulating this array.
 
 Near the top of `indexTest.js` you will see the following:
